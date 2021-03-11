@@ -9,7 +9,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-Data Science | Optimization | Research
+Data Science | Optimization | Research\
 💡 &nbsp;I like to explore data from different domains, from mobile networks to medical data\
 🎓 &nbsp;I'm currently studying Statistics at Univeristy of Brasília\
 🌱 &nbsp;I'm on track for learning more about Big Data\
