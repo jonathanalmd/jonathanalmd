@@ -13,7 +13,7 @@
 💡 &nbsp;I like to explore data from different domains, from mobile networks to medical data\
 🎓 &nbsp;I'm currently studying Statistics at Univeristy of Brasília\
 🌱 &nbsp;I'm on track for learning more about Big Data\
-💬 &nbsp;Feel free to reach out to me for more details regarding my [selected projects](jonathanalmd.github.io/blog)\
+💬 &nbsp;Feel free to reach out to me for more details regarding my [selected projects](https://jonathanalmd.github.io/blog/)\
 ✉️ &nbsp;You can shoot me an email at jonathanalmd@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [cv](https://jonathanalmd.github.io/assets/pdf/DeAlmeida2021-singlepage-cv.pdf) for more details about me. I'm open to feedback and suggestions!
 
