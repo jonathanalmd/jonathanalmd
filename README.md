@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://jonathanalmd.github.io"><img src="https://img.shields.io/badge/-jonathanalmd.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jonathanalmd"><img src="https://img.shields.io/badge/-Jonathan%20Almeida-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jonathanalmd"><img src="https://img.shields.io/badge/-Jonathan%20DeAlmeida-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jonathanalmd@gmail.com"><img src="https://img.shields.io/badge/-jonathanalmd@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
@@ -12,7 +12,7 @@
 Data Science | Optimization | Research\
 💡 &nbsp;I like to explore data from different domains, from mobile networks to medical data\
 🎓 &nbsp;I'm currently studying Statistics at Univeristy of Brasília\
-🌱 &nbsp;I'm on track for learning more about Big Data\
+🌱 &nbsp;I'm on track for learning more about Data Engineering\
 💬 &nbsp;Feel free to reach out to me for more details regarding my [selected projects](https://jonathanalmd.github.io/blog/)\
 ✉️ &nbsp;You can shoot me an email at jonathanalmd@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [cv](https://jonathanalmd.github.io/assets/pdf/DeAlmeida2021-singlepage-cv.pdf) for more details about me. I'm open to feedback and suggestions!
