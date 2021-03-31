@@ -23,6 +23,7 @@ Data Science | Optimization | Research\
 
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+MATLAB
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
