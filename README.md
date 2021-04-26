@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 Data Science | Optimization | Research\
 💡 &nbsp;I like to explore data from different domains, from mobile networks to medical data\
-🎓 &nbsp;I have a BS and an MS degree in Computer Science from the University of Brasília (Brazil)\
+🎓 &nbsp;I have a B.S. and an M.S. degree in Computer Science from the University of Brasília (Brazil)\
 🌱 &nbsp;I'm on track for learning more about Data Engineering\
 💬 &nbsp;Feel free to reach out to me for more details regarding my [selected projects](https://jonathanalmd.github.io/blog/)\
 ✉️ &nbsp;You can shoot me an email at jonathanalmd@gmail.com! I'll try to respond as soon as I can.\
